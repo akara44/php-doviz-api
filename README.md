@@ -31,5 +31,5 @@ Yukarıda verilen php kodları ile JSON kaynağından okuduğumuz verileri <b>ec
 ```php
 <?php echo "$STRSATİS"; ?>
 ```
-- Diğer kurlar içinde aynı şlemi uygulayabilirsiniz.
+- Diğer kurlar içinde aynı işlemi uygulayabilirsiniz.
 - Umarım kolay ve analışılır bir anlatım olmuştur. İhtiyacınızı karşılamasını dilerim.
