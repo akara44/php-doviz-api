@@ -15,7 +15,7 @@ With the php codes given above, we can call the data we read from the JSON sourc
 ```php
 <?php echo DOLARSATİS; ?>
 ```
-- Euro buying price: <b>EURALİS</b> for the constant <b>echo</b> use of:
+- Euro Buying Price: <b>EURALİS</b> for the constant <b>echo</b> use of:
 ```php
 <?php echo EURALİS; ?>
 ```
