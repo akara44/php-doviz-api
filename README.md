@@ -7,11 +7,11 @@
 
 # Calling data using the echo command:
 With the php codes given above, we can call the data we read from the JSON source with the <b>echo</b> command.I pulled the data I will pull as a define, you can assign it to variables.
-- Dolar Buying Price: <b>DOLARALİS</b> for the constant <b>echo</b> use of:
+- Dollar Buying Price: <b>DOLARALİS</b> for the constant <b>echo</b> use of:
 ```php
 <?php echo DOLARALİS; ?>
 ```
-- Dolar Satış Fiyatı: <b>DOLARSATİS</b> for the constant <b>echo</b> use of:
+- Dollar Selling Price: <b>DOLARSATİS</b> for the constant <b>echo</b> use of:
 ```php
 <?php echo DOLARSATİS; ?>
 ```
@@ -19,7 +19,7 @@ With the php codes given above, we can call the data we read from the JSON sourc
 ```php
 <?php echo EURALİS; ?>
 ```
-- Euro Satış Fiyatı: <b>EURSATİS</b> for the constant <b>echo</b> use of:
+- Euro Selling Price: <b>EURSATİS</b> for the constant <b>echo</b> use of:
 ```php
 <?php echo EURSATİS; ?>
 ```
@@ -27,9 +27,9 @@ With the php codes given above, we can call the data we read from the JSON sourc
 ```php
 <?php echo "$STRALİS"; ?>
 ```
--Sterlin Satış Fiyatı: <b>$STRSATİS</b> for the constant <b>echo</b> use of:
+-Sterlin Selling Price: <b>$STRSATİS</b> for the constant <b>echo</b> use of:
 ```php
 <?php echo "$STRSATİS"; ?>
 ```
-- Diğer kurlar içinde aynı işlemi uygulayabilirsiniz.
-- Umarım kolay ve analışılır bir anlatım olmuştur. İhtiyacınızı karşılamasını dilerim.
+- You can do the same for other currencies.
+- I hope this was an easy and understandable explanation.I wish you fulfill your needs.
