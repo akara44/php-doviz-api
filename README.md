@@ -7,27 +7,27 @@
 
 # Calling data using the echo command:
 With the php codes given above, we can call the data we read from the JSON source with the <b>echo</b> command.I pulled the data I will pull as a define, you can assign it to variables.
-- Dolar Alış Fiyatı: <b>DOLARALİS</b> sabiti için <b>echo</b> kullanımı:
+- Dolar Buying Price: <b>DOLARALİS</b> for the constant <b>echo</b> use of:
 ```php
 <?php echo DOLARALİS; ?>
 ```
-- Dolar Satış Fiyatı: <b>DOLARSATİS</b> sabiti için <b>echo</b> kullanımı:
+- Dolar Satış Fiyatı: <b>DOLARSATİS</b> for the constant <b>echo</b> use of:
 ```php
 <?php echo DOLARSATİS; ?>
 ```
-- Euro Alış Fiyatı: <b>EURALİS</b> sabiti için <b>echo</b> kullanımı:
+- Euro buying price: <b>EURALİS</b> for the constant <b>echo</b> use of:
 ```php
 <?php echo EURALİS; ?>
 ```
-- Euro Satış Fiyatı: <b>EURSATİS</b> sabiti için <b>echo</b> kullanımı:
+- Euro Satış Fiyatı: <b>EURSATİS</b> for the constant <b>echo</b> use of:
 ```php
 <?php echo EURSATİS; ?>
 ```
-- Sterlin Alış Fiyatı: <b>STRALİS</b> sabiti için <b>echo</b> kullanımı:
+- Sterlin Buying Price: <b>STRALİS</b> for the constant <b>echo</b> use of:
 ```php
 <?php echo "$STRALİS"; ?>
 ```
--Sterlin Satış Fiyatı: <b>$STRSATİS</b> sabiti için <b>echo</b> kullanımı:
+-Sterlin Satış Fiyatı: <b>$STRSATİS</b> for the constant <b>echo</b> use of:
 ```php
 <?php echo "$STRSATİS"; ?>
 ```
