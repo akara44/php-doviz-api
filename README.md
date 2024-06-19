@@ -1,12 +1,12 @@
 # PHP DÖVİZ
 # TRUNCGİL AKADEMİ DÖVİZ APİLERİ
-- Güncel Döviz Kuru verilerini internette bulmamız çok basittir. Peki bu bilgileri doğru ve etkili olarak nasıl kullanabiliriz sorusunu sizlere açıklamak ve uygulamalı olarak göstermek adına oluşturduğum Güncel Döviz Bilgilerine ulaşabileceğiniz web projesidir.
-- Ticari amaç için kullanılmaz.<br> <br> <br>
+- It is very simple to find current exchange rate data on the internet. So how can we use this information correctly and effectively? This is the web project that I created to explain and show you practically, where you can access Current Exchange Rate Information.
+- It is not used for commercial purposes.<br> <br> <br>
 ![livesearch](döviz.PNG) <br> <br>
 
 
-# echo Komutu Kullanarak veri çağırma işlemi:
-Yukarıda verilen php kodları ile JSON kaynağından okuduğumuz verileri <b>echo</b> komutu ile çağırabiliriz.Ben çekeceğim verileri define olarak çektim siz değişkenlerede atayabilirsiniz.
+# Calling data using the echo command:
+With the php codes given above, we can call the data we read from the JSON source with the <b>echo</b> command.I pulled the data I will pull as a define, you can assign it to variables.
 - Dolar Alış Fiyatı: <b>DOLARALİS</b> sabiti için <b>echo</b> kullanımı:
 ```php
 <?php echo DOLARALİS; ?>
